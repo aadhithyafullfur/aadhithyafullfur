@@ -99,39 +99,55 @@ const Aadhithya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadhithyafullfur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&icon_color=7b2fff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aadhithyafullfur&theme=tokyonight&hide_border=true&background=0D1117&ring=00C0FF&fire=7b2fff&currStreakLabel=00C0FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0D1117" width="49%" />
+<!-- Animated header bar -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=14&duration=2000&pause=5000&color=7b2fff&center=true&vCenter=true&width=700&lines=⚡+Crunching+commits+...+analyzing+streaks+...+mapping+the+matrix+⚡" />
 
 </div>
 
+<!-- Row 1: Stats + Streak -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C0FF&line=7b2fff&point=00C0FF&area=true&area_color=7b2fff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aadhithyafullfur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&icon_color=7b2fff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=Aadhithya's+Code+Pulse" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aadhithyafullfur&theme=tokyonight&hide_border=true&background=0D1117&ring=00C0FF&fire=7b2fff&currStreakLabel=00C0FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0D1117&border=0D1117" width="49%" />
 
 </div>
 
----
+<br/>
 
-## 🏆 Achievement Vault
-
+<!-- Row 2: Top Langs + Activity Graph -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aadhithyafullfur&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=8&custom_title=Language+DNA" width="36%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C0FF&line=7b2fff&point=ffffff&area=true&area_color=00c0ff&radius=8&custom_title=Commit+Timeline" width="62%" />
 
 </div>
 
----
+<br/>
 
-## 🐍 Commit Serpent
-
+<!-- Row 3: Animated 3D contribution calendar -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadhithyafullfur/aadhithyafullfur/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadhithyafullfur/aadhithyafullfur/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadhithyafullfur/aadhithyafullfur/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-profile-3d-contrib.vercel.app/profile-night-rainbow.svg" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- Row 4: Metrics summary card -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadhithyafullfur&theme=tokyonight" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- Row 5: Productive time + Repos per language -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadhithyafullfur&theme=tokyonight&utcOffset=5.5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadhithyafullfur&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadhithyafullfur&theme=tokyonight" width="32%" />
 
 </div>
 
