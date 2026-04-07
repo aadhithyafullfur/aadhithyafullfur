@@ -99,55 +99,76 @@ const Aadhithya = {
 
 <div align="center">
 
-<!-- Animated header bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=14&duration=2000&pause=5000&color=7b2fff&center=true&vCenter=true&width=700&lines=⚡+Crunching+commits+...+analyzing+streaks+...+mapping+the+matrix+⚡" />
-
-</div>
-
-<!-- Row 1: Stats + Streak -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aadhithyafullfur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&icon_color=7b2fff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=Aadhithya's+Code+Pulse" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aadhithyafullfur&theme=tokyonight&hide_border=true&background=0D1117&ring=00C0FF&fire=7b2fff&currStreakLabel=00C0FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0D1117&border=0D1117" width="49%" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=13&duration=1800&pause=6000&color=7b2fff&center=true&vCenter=true&width=750&lines=◈+SCANNING+REPOSITORIES+...+ANALYZING+COMMIT+PATTERNS+...+RENDERING+STATS+◈" />
 
 </div>
 
 <br/>
 
-<!-- Row 2: Top Langs + Activity Graph -->
+<!-- ══════════════════ ROW 1 — STATS + STREAK ══════════════════ -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=8&custom_title=Language+DNA" width="36%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C0FF&line=7b2fff&point=ffffff&area=true&area_color=00c0ff&radius=8&custom_title=Commit+Timeline" width="62%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aadhithyafullfur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&icon_color=7b2fff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=〈%20Code%20Pulse%20〉" width="48%" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=aadhithyafullfur&theme=tokyonight&hide_border=true&background=0D1117&ring=00C0FF&fire=7b2fff&currStreakLabel=00C0FF&sideLabels=c9d1d9&dates=888888&stroke=0D1117&border=0D1117&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
 
 </div>
 
 <br/>
 
-<!-- Row 3: Animated 3D contribution calendar -->
+<!-- ══════════════════ ROW 2 — LANGS + GRAPH ══════════════════ -->
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/profile-night-rainbow.svg" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=8&custom_title=〈%20Language%20DNA%20〉" width="35%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C0FF&line=7b2fff&point=ffffff&area=true&area_color=7b2fff&radius=6&custom_title=〈%20Commit%20Timeline%20〉" width="61%" />
 
 </div>
 
 <br/>
 
-<!-- Row 4: Metrics summary card -->
+<!-- ══════════════════ ROW 3 — ANIMATED WAVE DIVIDER ══════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0d1a2e,100:0D1117&height=2&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════ ROW 4 — WAKATIME-STYLE METRICS ══════════════════ -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadhithyafullfur&theme=tokyonight" width="100%" />
+<!-- Animated metric pills -->
+<img src="https://img.shields.io/badge/Total%20Contributions-183-00C0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-7%20Days-7b2fff?style=for-the-badge&logo=fire&logoColor=white&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Repositories-Public%20%2B%20Private-00C0FF?style=for-the-badge&logo=folder&logoColor=white&labelColor=0D1117" />
 
 </div>
 
 <br/>
 
-<!-- Row 5: Productive time + Repos per language -->
+<!-- ══════════════════ ROW 5 — CONTRIBUTION HEATMAP ══════════════════ -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadhithyafullfur&theme=tokyonight&utcOffset=5.5" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadhithyafullfur&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadhithyafullfur&theme=tokyonight" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=6&custom_title=〈%20Stack%20Distribution%20〉" width="38%" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=aadhithyafullfur&theme=transparent&hide_border=true&background=0D1117&ring=7b2fff&fire=00C0FF&currStreakLabel=7b2fff&sideLabels=c9d1d9&dates=888888&stroke=0D1117&border=0D1117&sideNums=00C0FF&currStreakNum=7b2fff&type=svg&mode=weekly" width="58%" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ ROW 6 — ANIMATED SKYLINE ══════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,30:0d1520,70:0d1520,100:0D1117&height=60&section=header&animation=twinkling&text=▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓&fontColor=00C0FF&fontSize=12&fontAlignY=50" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=high-contrast&hide_border=true&bg_color=0D1117&color=7b2fff&line=00C0FF&point=ffffff&area=true&area_color=00c0ff&radius=4&custom_title=〈%20Full%20Year%20Contribution%20Map%20〉&height=220" width="100%" />
 
 </div>
 
