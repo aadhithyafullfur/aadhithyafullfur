@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:00c0ff,100:7b2fff&height=220&section=header&text=Aadhithya%20R&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Analyst&descAlignY=62&descAlign=50&descSize=18&descColor=a0cfff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030510,30:0a0f2e,60:0d1a4a,100:7b2fff&height=260&section=header&text=Aadhithya%20R&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Analyst&descAlignY=62&descAlign=50&descSize=19&descColor=a8d4ff" />
 
 </div>
 
@@ -97,18 +97,17 @@ const Aadhithya = {
 
 ## 📊 GitHub Intelligence
 
+<!-- ANIMATED SCANNING HEADER -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=13&duration=1800&pause=6000&color=7b2fff&center=true&vCenter=true&width=750&lines=◈+SCANNING+REPOSITORIES+...+ANALYZING+COMMIT+PATTERNS+...+RENDERING+STATS+◈" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=13&duration=2500&pause=8000&color=7b2fff&center=true&vCenter=true&width=750&lines=◈+INITIALIZING+NEURAL+COMMIT+SCANNER+...+DEPLOYING+MATRIX+◈" />
 </div>
 
 <br/>
 
-<!-- ══════════════════ ROW 1 — STATS + STREAK ══════════════════ -->
+<!-- ROW 1 — STATS + STREAK (most reliable services) -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadhithyafullfur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&icon_color=7b2fff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=〈%20Code%20Pulse%20〉" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aadhithyafullfur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&icon_color=7b2fff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=〈%20Code%20Pulse%20〉&card_width=400" width="48%" />
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=aadhithyafullfur&theme=tokyonight&hide_border=true&background=0D1117&ring=00C0FF&fire=7b2fff&currStreakLabel=00C0FF&sideLabels=c9d1d9&dates=888888&stroke=0D1117&border=0D1117&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
 
@@ -116,60 +115,54 @@ const Aadhithya = {
 
 <br/>
 
-<!-- ══════════════════ ROW 2 — LANGS + GRAPH ══════════════════ -->
+<!-- ROW 2 — LANGUAGE DONUT + ACTIVITY GRAPH -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=8&custom_title=〈%20Language%20DNA%20〉" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=8&custom_title=〈%20Language%20DNA%20〉" width="34%" />
 &nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C0FF&line=7b2fff&point=ffffff&area=true&area_color=7b2fff&radius=6&custom_title=〈%20Commit%20Timeline%20〉" width="61%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C0FF&line=7b2fff&point=ffffff&area=true&area_color=7b2fff&radius=6&custom_title=〈%20Commit%20Timeline%20〉" width="62%" />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════ ROW 3 — ANIMATED WAVE DIVIDER ══════════════════ -->
+<!-- ROW 3 — ANIMATED CYBER DIVIDER (capsule-render twinkling) -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0d1a2e,100:0D1117&height=2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,25:0d1a2e,50:0a0f1e,75:0d1a2e,100:0D1117&height=3&animation=twinkling" width="100%" />
 </div>
 
 <br/>
 
-<!-- ══════════════════ ROW 4 — WAKATIME-STYLE METRICS ══════════════════ -->
+<!-- ROW 4 — TROPHY ROW (slim, dark, no-frame) -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aadhithyafullfur&theme=onestar&no-frame=true&row=1&column=6&margin-w=6&margin-h=6&no-bg=true" />
+</div>
+
+<br/>
+
+<!-- ROW 5 — FULL-WIDTH CONTRIBUTION GRAPH (high-contrast theme, area fill) -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=high-contrast&hide_border=true&bg_color=0D1117&color=7b2fff&line=00C0FF&point=ffffff&area=true&area_color=00c0ff&radius=4&custom_title=〈%20Full%20Year%20Neural%20Activity%20Map%20〉&height=220" width="100%" />
+</div>
+
+<br/>
+
+<!-- ROW 6 — ANIMATED METRIC BADGES + LIVE COUNTERS -->
 <div align="center">
 
-<!-- Animated metric pills -->
-<img src="https://img.shields.io/badge/Total%20Contributions-183-00C0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faadhithyafullfur&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=0D1117&labelColor=7b2fff" />
 &nbsp;
-<img src="https://img.shields.io/badge/Longest%20Streak-7%20Days-7b2fff?style=for-the-badge&logo=fire&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faadhithyafullfur&query=%24.followers&style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0D1117&labelColor=00C0FF" />
 &nbsp;
-<img src="https://img.shields.io/badge/Repositories-Public%20%2B%20Private-00C0FF?style=for-the-badge&logo=folder&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faadhithyafullfur&query=%24.following&style=for-the-badge&logo=github&logoColor=white&label=Following&color=0D1117&labelColor=7b2fff" />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════ ROW 5 — CONTRIBUTION HEATMAP ══════════════════ -->
+<!-- ROW 7 — PIE LANG CHART (second layout variant) -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=6&custom_title=〈%20Stack%20Distribution%20〉" width="38%" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=aadhithyafullfur&theme=transparent&hide_border=true&background=0D1117&ring=7b2fff&fire=00C0FF&currStreakLabel=7b2fff&sideLabels=c9d1d9&dates=888888&stroke=0D1117&border=0D1117&sideNums=00C0FF&currStreakNum=7b2fff&type=svg&mode=weekly" width="58%" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════ ROW 6 — ANIMATED SKYLINE ══════════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,30:0d1520,70:0d1520,100:0D1117&height=60&section=header&animation=twinkling&text=▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓&fontColor=00C0FF&fontSize=12&fontAlignY=50" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhithyafullfur&theme=high-contrast&hide_border=true&bg_color=0D1117&color=7b2fff&line=00C0FF&point=ffffff&area=true&area_color=00c0ff&radius=4&custom_title=〈%20Full%20Year%20Contribution%20Map%20〉&height=220" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithyafullfur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=c9d1d9&langs_count=10&custom_title=〈%20Compact%20Stack%20Map%20〉&card_width=800" width="92%" />
 </div>
 
 ---
@@ -200,5 +193,5 @@ const Aadhithya = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7b2fff,50:00c0ff,100:0a0a0f&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7b2fff,30:0d1a4a,70:0a0f2e,100:030510&height=140&section=footer&animation=twinkling&text=Let's%20Build%20the%20Future%20Together&fontSize=22&fontColor=a8d4ff&fontAlignY=55" />
 </div>
